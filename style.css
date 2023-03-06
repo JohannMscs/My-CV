@@ -74,3 +74,16 @@ img{
     border-color: #3605fad0;
     margin-bottom: 18px;
 }
+.experience-column{
+    background-color: #ffffff;
+}
+.experience-column section{
+    margin-bottom: 30px;
+}
+.experience-column h2{
+    text-aling: left;
+    padding: 40px;
+}
+.experience-column h2{
+    margin-bottom: 15px;
+}
