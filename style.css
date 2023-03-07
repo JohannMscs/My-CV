@@ -76,14 +76,18 @@ img{
 }
 .experience-column{
     background-color: #ffffff;
+    padding-left: 40px;
 }
 .experience-column section{
     margin-bottom: 30px;
 }
-.experience-column h2{
-    text-aling: left;
-    padding: 40px;
-}
+
 .experience-column h2{
     margin-bottom: 15px;
 }
+.experience-column a{
+    color: #000000;
+    margin-left: 0px;
+    text-decoration: underline;
+}
+
